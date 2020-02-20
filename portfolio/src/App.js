@@ -3,10 +3,10 @@
 import React from 'react';
 // Import the BrowserRouter, Route and Link components
 import { BrowserRouter, Route, Link } from 'react-router-dom';
-import About from './pages/About.js/index.js';
-import Portfolio from './pages/Portfolio.js/index.js';
-import Contact from './pages/Contact.js/index.js';
-import Footer from "./components/Footer";
+import About from './pages/About';
+import Portfolio from './pages/Portfolio';
+import Contact from './pages/Contact';
+import Footer from "./components/Footer/index.js";
 
 import './App.css';
 
