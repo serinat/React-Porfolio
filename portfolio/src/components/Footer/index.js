@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
     return (
       <footer className="footer">
-        <span>2019 Serina Tsang ~ Made in Seattle</span>
+        <span><i class="fas fa-copyright"></i>  2019 Serina Tsang ~ Made in Seattle</span>
       </footer>
     );
   }

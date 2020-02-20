@@ -6,8 +6,8 @@ import { BrowserRouter, Route } from 'react-router-dom';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
-import Navbar from "./components/Navbar/index.js";
-import Footer from "./components/Footer/index.js";
+import Navbar from './components/Navbar/index.js';
+import Footer from './components/Footer/index.js';
 
 import './App.css';
 
