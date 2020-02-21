@@ -7,7 +7,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
-import Navbar from './components/Navbar/index.js';
+import Header from './components/Header/index.js';
 import Footer from './components/Footer/index.js';
 
 import './App.css';
@@ -16,7 +16,7 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        <Navbar />
+        <Header />
 
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
