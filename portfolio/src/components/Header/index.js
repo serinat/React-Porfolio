@@ -19,7 +19,7 @@ function Header() {
                             to="/about"
                             className={
                                 window.location.pathname === "/" || window.location.pathname === "/about"
-                                    ? "nav-link active"
+                                    ? "nav-link"
                                     : "nav-link"
                             }
                         >
