@@ -9,7 +9,6 @@ import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Header from './components/Header/index.js';
 import Footer from './components/Footer/index.js';
-
 import './App.css';
 
 function App() {

@@ -1,6 +1,7 @@
 import React from 'react';
 import Blackjack from './blackjack.png';
 import Lounge from './lounge.png';
+//import Project from './components/Project';
  
 function Portfolio(props) {
   return (
@@ -15,7 +16,6 @@ function Portfolio(props) {
       <br></br>
       <img src={Lounge} alt=""/>
     </div>  
-
 
   )
 }
