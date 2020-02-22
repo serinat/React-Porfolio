@@ -12,7 +12,7 @@ function Contact(props) {
           class="fas fa-mobile-alt fa-2x animated rotateIn"></i>  (425) 301-2906
     </p>
         <p class="float-left" ><i
-          class="far fa-file-pdf fa-2x animated rotateIn"></i><a href="assets/Documents/Tsang_Serina_resume November 2019.pdf">  [Resume]</a>
+          class="far fa-file-pdf fa-2x animated rotateIn"></i><a href="Tsang_Serina_resume November 2019.pdf" download>  [Resume]</a>
         </p>
         <p class="float-right" ><i
           class="fab fa-github fa-2x animated rotateIn"></i><a href="https://github.com/serinat">  [Github]</a></p>

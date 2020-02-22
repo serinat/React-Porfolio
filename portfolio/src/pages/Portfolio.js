@@ -18,8 +18,8 @@ function Portfolio(props) {
       />
 
       <Thumbnail
-        link="./lounge"
-        image="https://serene-headland-87883.herokuapp.com"
+        link="https://serene-headland-87883.herokuapp.com"
+        image="./lounge.png"
         title="The Lounge"
         category="Project"
       />
