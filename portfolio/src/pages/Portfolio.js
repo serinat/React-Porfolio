@@ -7,7 +7,8 @@ import Thumbnail from './Thumbnail';
 
 function Portfolio(props) {
   return (
-    <div id="portfolio" class="container bg-light">
+
+    <div>
       <h1 style={{ margin: 20 }}>Portfolio</h1>
 
       <div class="row">
@@ -91,10 +92,7 @@ function Portfolio(props) {
           />
         </div>
       </div>
-
     </div>
-
-
 
   )
 }
