@@ -7,28 +7,95 @@ import Thumbnail from './Thumbnail';
 
 function Portfolio(props) {
   return (
-    <div>
+    <div id="portfolio" class="container bg-light">
       <h1 style={{ margin: 20 }}>Portfolio</h1>
-      <a href="https://github.com/BSmalls6/Project_1"> [Blackjack Github]</a>
-      <a href="https://bsmalls6.github.io/Project_1/"> [Blackjack Deployed]</a>
-      <Thumbnail
-        link="https://bsmalls6.github.io/Project_1/"
-        image="./blackjack.png"
-        
-        //title="Blackjack"
-        //category="Project"
-      />
 
-      <a href="https://github.com/cbarcala23/Project2"> [Lounge Github]</a>
-      <a href="https://serene-headland-87883.herokuapp.com/"> [Lounge Deployed]</a>
+      <div class="row">
+        <div class="col-md-4">
+          <a href="https://github.com/cbarcala23/Project2"> [ Lounge Git ]</a>
+          <a href="https://serene-headland-87883.herokuapp.com/"> [ Lounge ]</a>
 
-      <Thumbnail
-        link="https://serene-headland-87883.herokuapp.com"
-        image="./lounge.png"
-        //title="The Lounge"
-        //category="Project"
-      />
+          <Thumbnail
+            link="https://serene-headland-87883.herokuapp.com"
+            image="./lounge.png"
+          //title="The Lounge"
+          //category="Project"
+          />
+        </div>
+
+        <br />
+
+        <div class="col-md-4">
+          <a href="https://github.com/BSmalls6/Project_1"> [ Blackjack Git ]</a>
+          <a href="https://bsmalls6.github.io/Project_1/"> [ Blackjack ]</a>
+
+          <Thumbnail
+            link="https://bsmalls6.github.io/Project_1/"
+            image="./blackjack.png"
+          //title="Blackjack"
+          //category="Project"
+          />
+        </div>
+
+        <br />
+
+        <div class="col-md-4">
+          <a href="https://github.com/serinat/Budget-Tracker"> [ Budget Tracker Git ]</a>
+          <a href="https://serene-bastion-86706.herokuapp.com/"> [ Budget Tracker ]</a>
+
+          <Thumbnail
+            link="https://github.com/serinat/Budget-Tracker"
+            image="./budget.png"
+          //title="Budget-Tracker"
+          //category="Assignment"
+          />
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">
+          <a href="https://github.com/serinat/Engineering-Team-Generator"> [ Team Generator Git ]</a>
+
+          <Thumbnail
+            link="https://github.com/serinat/Engineering-Team-Generator"
+            image="./team.png"
+          //title="Engineering-Team-Generator"
+          //category="Assignment"
+          />
+        </div>
+
+        <br />
+
+        <div class="col-md-4">
+          <a href="https://github.com/serinat/Note-taker"> [ Note Taker Git ]</a>
+          <a href="https://boiling-reaches-19093.herokuapp.com/"> [ Note Taker ]</a>
+
+          <Thumbnail
+            link="https://github.com/serinat/Budget-Tracker"
+            image="./note.png"
+          //title="Note-Taker"
+          //category="Assignment"
+          />
+        </div>
+
+        <br />
+
+        <div class="col-md-4">
+          <a href="https://github.com/serinat/UW-Password-Generator"> [ Password Generator Git ]</a>
+
+          <Thumbnail
+            link="https://github.com/serinat/UW-Password-Generator"
+            image="./pwGenerator.png"
+          //title="Password-Generator"
+          //category="Assignment"
+          />
+        </div>
+      </div>
+
     </div>
+
+
+
   )
 }
 
