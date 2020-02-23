@@ -5,6 +5,7 @@ function About(props) {
   return (
     <div>
       <h1 style={{ margin: 20 }}>About Me</h1>
+      <br />
       <img src={BioImage} alt=""/>
 
       <p id="about" style={{ margin: 20 }}>Hi, there! My name is Serina Tsang, and welcome to my portfolio site! I am currently

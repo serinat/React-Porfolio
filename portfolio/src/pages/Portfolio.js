@@ -8,9 +8,9 @@ import Thumbnail from './Thumbnail';
 function Portfolio(props) {
   return (
 
-    <div>
-      <h1 style={{ margin: 20 }}>Portfolio</h1>
-
+    <div style={{ margin: 20 }}>
+      <h1>Portfolio</h1>
+      <br />
       <div class="row">
         <div class="col-md-4">
           <a href="https://github.com/cbarcala23/Project2"> [ Lounge Git ]</a>
@@ -93,6 +93,8 @@ function Portfolio(props) {
         </div>
       </div>
     </div>
+
+
 
   )
 }
