@@ -14,7 +14,7 @@ function Portfolio(props) {
       <div class="row">
         <div class="col-md-4">
           <a href="https://github.com/cbarcala23/Project2"> [ Github Link ]</a>
-          <a href="https://serene-headland-87883.herokuapp.com/"> [ Lounge ]</a>
+          <a href="https://serene-headland-87883.herokuapp.com/"> [ Lounge App ]</a>
 
           <Thumbnail
             link="https://serene-headland-87883.herokuapp.com"
@@ -28,7 +28,7 @@ function Portfolio(props) {
 
         <div class="col-md-4">
           <a href="https://github.com/BSmalls6/Project_1"> [ Github Link ]</a>
-          <a href="https://bsmalls6.github.io/Project_1/"> [ Blackjack ]</a>
+          <a href="https://bsmalls6.github.io/Project_1/"> [ Blackjack App ]</a>
 
           <Thumbnail
             link="https://bsmalls6.github.io/Project_1/"
@@ -42,7 +42,7 @@ function Portfolio(props) {
 
         <div class="col-md-4">
           <a href="https://github.com/serinat/Budget-Tracker"> [ Github Link ]</a>
-          <a href="https://serene-bastion-86706.herokuapp.com/"> [ Budget Tracker ]</a>
+          <a href="https://serene-bastion-86706.herokuapp.com/"> [ Budget Tracker App ]</a>
 
           <Thumbnail
             link="https://github.com/serinat/Budget-Tracker"
@@ -69,7 +69,7 @@ function Portfolio(props) {
 
         <div class="col-md-4">
           <a href="https://github.com/serinat/Note-taker"> [ Github Link ]</a>
-          <a href="https://boiling-reaches-19093.herokuapp.com/"> [ Note Taker ]</a>
+          <a href="https://boiling-reaches-19093.herokuapp.com/"> [ Note Taker App ]</a>
 
           <Thumbnail
             link="https://github.com/serinat/Budget-Tracker"
@@ -82,7 +82,7 @@ function Portfolio(props) {
         <br />
 
         <div class="col-md-4">
-          <a href="https://github.com/serinat/UW-Password-Generator"> [ Github Link ]</a>
+          <a href="https://github.com/serinat/UW-Password-Generator">[ Github Link ]</a>
 
           <Thumbnail
             link="https://github.com/serinat/UW-Password-Generator"
