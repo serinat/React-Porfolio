@@ -13,7 +13,7 @@ function Portfolio(props) {
       <br />
       <div class="row">
         <div class="col-md-4">
-          <a href="https://github.com/cbarcala23/Project2"> [ Lounge Git ]</a>
+          <a href="https://github.com/cbarcala23/Project2"> [ Github Link ]</a>
           <a href="https://serene-headland-87883.herokuapp.com/"> [ Lounge ]</a>
 
           <Thumbnail
@@ -27,7 +27,7 @@ function Portfolio(props) {
         <br />
 
         <div class="col-md-4">
-          <a href="https://github.com/BSmalls6/Project_1"> [ Blackjack Git ]</a>
+          <a href="https://github.com/BSmalls6/Project_1"> [ Github Link ]</a>
           <a href="https://bsmalls6.github.io/Project_1/"> [ Blackjack ]</a>
 
           <Thumbnail
@@ -41,7 +41,7 @@ function Portfolio(props) {
         <br />
 
         <div class="col-md-4">
-          <a href="https://github.com/serinat/Budget-Tracker"> [ Budget Tracker Git ]</a>
+          <a href="https://github.com/serinat/Budget-Tracker"> [ Github Link ]</a>
           <a href="https://serene-bastion-86706.herokuapp.com/"> [ Budget Tracker ]</a>
 
           <Thumbnail
@@ -55,7 +55,7 @@ function Portfolio(props) {
 
       <div class="row">
         <div class="col-md-4">
-          <a href="https://github.com/serinat/Engineering-Team-Generator"> [ Team Generator Git ]</a>
+          <a href="https://github.com/serinat/Engineering-Team-Generator"> [ Github Link ]</a>
 
           <Thumbnail
             link="https://github.com/serinat/Engineering-Team-Generator"
@@ -68,7 +68,7 @@ function Portfolio(props) {
         <br />
 
         <div class="col-md-4">
-          <a href="https://github.com/serinat/Note-taker"> [ Note Taker Git ]</a>
+          <a href="https://github.com/serinat/Note-taker"> [ Github Link ]</a>
           <a href="https://boiling-reaches-19093.herokuapp.com/"> [ Note Taker ]</a>
 
           <Thumbnail
@@ -82,7 +82,7 @@ function Portfolio(props) {
         <br />
 
         <div class="col-md-4">
-          <a href="https://github.com/serinat/UW-Password-Generator"> [ Password Generator Git ]</a>
+          <a href="https://github.com/serinat/UW-Password-Generator"> [ Github Link ]</a>
 
           <Thumbnail
             link="https://github.com/serinat/UW-Password-Generator"
