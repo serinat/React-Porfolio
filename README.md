@@ -122,3 +122,7 @@ Make sure to update your LinkedIn Profile with the new skills you've acquired si
 
 - https://www.framer.com/blog/posts/react-portfolio/
 
+## Deployed App:
+
+- https://rocky-falls-35524.herokuapp.com/
+
