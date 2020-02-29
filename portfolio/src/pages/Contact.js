@@ -20,10 +20,10 @@ function Contact(props) {
       </div>
       <div class="row">
         <div class="col-md-6">
-          <p class="float-right" ><i
+          <p class="float-left" ><i
             class="fab fa-github fa-2x animated rotateIn"></i><a href="https://github.com/serinat">  [Github]</a></p></div>
         <div class="col-md-6">
-          <p class="float-right" ><i
+          <p class="" ><i
             class="fab fa-linkedin fa-2x animated rotateIn"></i><a
               href="https://www.linkedin.com/in/serina-tsang-91b810105/">  [LinkedIn]</a></p></div>
       </div>
