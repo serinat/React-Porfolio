@@ -15,17 +15,17 @@ function Contact(props) {
     </p></div>
         <div class="col-md-4">
           <p class="float-left" ><i
-            class="far fa-file-pdf fa-2x animated rotateIn"></i><a href="Tsang_Serina_resume November 2019.pdf" download>  [Resume]</a>
+            class="far fa-file-pdf fa-2x animated rotateIn"></i><a href="Tsang_Serina_resume November 2019.pdf" download>  [Resume PDF]</a>
           </p></div>
       </div>
       <div class="row">
         <div class="col-md-6">
           <p class="float-left" ><i
-            class="fab fa-github fa-2x animated rotateIn"></i><a href="https://github.com/serinat">  [Github]</a></p></div>
+            class="fab fa-github fa-2x animated rotateIn"></i><a href="https://github.com/serinat">  [Github Link]</a></p></div>
         <div class="col-md-6">
           <p class="" ><i
             class="fab fa-linkedin fa-2x animated rotateIn"></i><a
-              href="https://www.linkedin.com/in/serina-tsang-91b810105/">  [LinkedIn]</a></p></div>
+              href="https://www.linkedin.com/in/serina-tsang-91b810105/">  [LinkedIn Link]</a></p></div>
       </div>
     </div>
 
